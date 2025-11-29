@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Sunnieye/static/css/main.3c94ba05.css",
+    "main.js": "/Sunnieye/static/js/main.6e67fd22.js",
+    "static/js/453.9efeffac.chunk.js": "/Sunnieye/static/js/453.9efeffac.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/Sunnieye/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/Sunnieye/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/logo.svg": "/Sunnieye/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Sunnieye/index.html",
+    "main.3c94ba05.css.map": "/Sunnieye/static/css/main.3c94ba05.css.map",
+    "main.6e67fd22.js.map": "/Sunnieye/static/js/main.6e67fd22.js.map",
+    "453.9efeffac.chunk.js.map": "/Sunnieye/static/js/453.9efeffac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c94ba05.css",
+    "static/js/main.6e67fd22.js"
+  ]
+}
